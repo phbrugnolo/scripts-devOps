@@ -9,3 +9,6 @@
 *.gz
 *.bz2
 *.xz
+
+#Ignore all txt files 
+*.txt
