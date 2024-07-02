@@ -11,3 +11,8 @@ Comando para descompactar um arquivo tar.gz
 ```bash
 tar -tf nomeDoArquivo.tar.gz
 ```
+
+Comando para remover pastas via terminal Linux
+```bash 
+rm -rf /home/dev/Projects/home
+```
