@@ -14,5 +14,5 @@ tar -tf nomeDoArquivo.tar.gz
 
 Comando para remover pastas via terminal Linux
 ```bash 
-rm -rf /home/dev/Projects/home
+rm -rf /path/do/diretorio/pasta
 ```
