@@ -16,3 +16,8 @@ Comando para remover pastas via terminal Linux
 ```bash 
 rm -rf /path/do/diretorio/pasta
 ```
+
+Comando para ver o usuário logado na distro autal
+```bash 
+whoami
+```
