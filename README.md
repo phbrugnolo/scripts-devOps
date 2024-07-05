@@ -27,3 +27,9 @@ Comando para capturar a execeução de um processo
 ps aux | grep -v grep | grep nomeDoProcesso
 ```
 Obs: o grep -v grep serve para quando a busca for executada ela não capture os processos do próprio grep
+
+Se quiser executar o comando acima trazendo somente o id dos processos
+```bash 
+pgrep nomeDoProcesso
+```
+
