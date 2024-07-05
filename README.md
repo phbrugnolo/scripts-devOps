@@ -21,3 +21,9 @@ Comando para ver o usuário logado na distro autal
 ```bash 
 whoami
 ```
+
+Comando para capturar a execeução de um processo
+```bash 
+ps aux | grep -v grep | grep nomeDoProcesso
+```
+Obs: o grep -v grep serve para quando a busca for executada ela não capture os processos do próprio grep
