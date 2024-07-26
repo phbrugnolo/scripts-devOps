@@ -33,3 +33,7 @@ Se quiser executar o comando acima trazendo somente o id dos processos
 pgrep nomeDoProcesso
 ```
 
+Se quiser remover uma pasta no linux e todos seus sub-diretórios
+```bash
+rm -rf nome_da_pasta
+```
